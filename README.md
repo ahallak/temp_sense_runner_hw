@@ -37,4 +37,4 @@ The chart above illustrates actual data pulled off from multiple probes attached
 Serving this unit in the field is best done over SSH, but in common commercial scenarios where such access is unavailable, UART can be utilized instead. By breaking out a dedicated set of UART lines from the SBC, one is able to plug into the device with a laptop nearby and monitor functions or reconfigure the device. Future plans involve either SMTP commands over email, or a REST API if commercial scenarios will allow for such a thing given the heightened security risk. Preparing this device for bulk production would involve a restructure of the software to allow for multiple users and a more robust monitoring setup. In addition, cheaper SBCs may be utilized, and part life cycles would have to be considered. 
 
 ![alt text](_Gallery/IntegratedTop.JPEG "Top")
-![alt text](_Gallery/IntegratedSide.jpeg "Side")
+![alt text](_Gallery/IntegratedSide.JPEG "Side")
